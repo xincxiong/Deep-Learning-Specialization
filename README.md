@@ -1,7 +1,8 @@
 # DeepLearning_ai by Andrew NG 
-[deeplearning.ai](https://www.deeplearning.ai) 
-Format:![Deeplearning](https://rexplorations.files.wordpress.com/2017/10/2017-10-21-19_43_58-clipboard.png?w=1000)
-**This repo includes all programming assignments from deeplearning specilization supported by Andrew Ng on Coursera. I have completed these five courses and get the certificate on Feb, 2018**.
+
+![Deeplearning](https://rexplorations.files.wordpress.com/2017/10/2017-10-21-19_43_58-clipboard.png?w=1000)
+
+**This repo includes all programming assignments from deeplearning specilization supported by Andrew Ng on Coursera. I have completed these five courses and get the certificate on Feb, 2018**.Link:[deeplearning.ai](https://www.deeplearning.ai) 
 
 This specialization includes the foundations of Deep Learning understand how to build neural network, and learn how to lead successful machine learning projects. I have learn about Convolutional Networks,RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. I have worked on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. I mastered not only the theory, but also see how it is applied in industry. I practiced all these ideas in Python and in TensorFlow and Keras.
 
