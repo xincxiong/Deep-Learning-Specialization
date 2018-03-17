@@ -1,7 +1,10 @@
 # DeepLearning_ai by Andrew NG 
-[deeplearning.ai](https://www.deeplearning.ai)
+[deeplearning.ai](https://www.deeplearning.ai) 
+Format:![Deep Learning](https://static.wixstatic.com/media/90cb81_844819656bf64fc685490dbe5168f785~mv2.png/v1/fill/w_315,h_270,al_c,lg_1/90cb81_844819656bf64fc685490dbe5168f785~mv2.png)
 
 **This repo includes all programming assignments from deeplearning specilization supported by Andrew Ng on Coursera. I have completed these five courses and get the certificate on Feb, 2018**.
+
+This specialization includes the foundations of Deep Learning understand how to build neural network, and learn how to lead successful machine learning projects. I have learn about Convolutional Networks,RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. I have worked on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. I mastered not only the theory, but also see how it is applied in industry. I practiced all these ideas in Python and in TensorFlow and Keras.
 
 1. **Neural Networks and Deep Learning**
    - Understand the major technology trends driving Deep Learning
@@ -34,8 +37,6 @@
    - Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
    - Be able to apply sequence models to natural language problems, including text synthesis. 
    - Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
-
-This specialization includes the foundations of Deep Learning understand how to build neural network, and learn how to lead successful machine learning projects. I have learn about Convolutional Networks,RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. I have worked on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. I mastered not only the theory, but also see how it is applied in industry. I practiced all these ideas in Python and in TensorFlow and Keras.
 
 
 If you have any questions, please drop me an email at: xiongxinland@gmail.com
