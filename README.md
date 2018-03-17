@@ -10,3 +10,4 @@ This repo includes all programming assignments from deeplearning specilization s
 5. **Sequence Models**
 
 
+If you have any questions, please drop me an email at: xiongxinland@gmail.com
