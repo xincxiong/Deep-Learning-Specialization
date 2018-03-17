@@ -1,6 +1,6 @@
 # DeepLearning_ai by Andrew NG 
 [deeplearning.ai](https://www.deeplearning.ai) 
-Format:![Deep Learning](https://static.wixstatic.com/media/90cb81_844819656bf64fc685490dbe5168f785~mv2.png/v1/fill/w_315,h_270,al_c,lg_1/90cb81_844819656bf64fc685490dbe5168f785~mv2.png)
+Format:![Deep Learning](https://rexplorations.wordpress.com/2017/10/21/andrew-ngs-deeplearning-ai-coursera-certification/)
 
 **This repo includes all programming assignments from deeplearning specilization supported by Andrew Ng on Coursera. I have completed these five courses and get the certificate on Feb, 2018**.
 
