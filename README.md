@@ -6,6 +6,9 @@
 Link:[deeplearning.ai](https://www.deeplearning.ai) 
 Certificate Link:[deeplearning](https://www.coursera.org/account/accomplishments/specialization/Z2ACFYMDSCPE)
 
+***
+Author: Xin Xiong
+
 This specialization includes the foundations of Deep Learning understand how to build neural network, and learn how to lead successful machine learning projects. I have learn about Convolutional Networks,RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. I have worked on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. I mastered not only the theory, but also see how it is applied in industry. I practiced all these ideas in Python and in TensorFlow and Keras.
 
 1. [**Neural Networks and Deep Learning**](https://www.coursera.org/account/accomplishments/verify/QXAWVKQXQTY4)
